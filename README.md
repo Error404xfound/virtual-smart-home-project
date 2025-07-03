@@ -6,6 +6,7 @@ Status: Work in progress
 It was originally supposed to be a virtual home system application , but after some coding, it seemed like it could be a better fit for a horror game
 
 Progess:
+
 Day 1:
 -Brainstormed core concept: psychological horror rooted in memory, emotion, and minimalism
 -Designed initial mechanics: text-based grid exploration, monster interactions, item system
